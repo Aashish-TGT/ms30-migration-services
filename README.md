@@ -109,5 +109,6 @@ id,date,amount,clientId
 MIT License
 © 2025 Aashish Dev
 
-Developer – MS30 Microservice
+Developer – Aashish
+MS30 Microservice
 intern in Tgt's
